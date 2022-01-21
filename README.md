@@ -6,7 +6,7 @@ This is Taufeeq Hussain an Undergraduating student from Muffakham Jah College of
 Iam a good communicator, hustler,result-oriented person with good analitical skills.
 - 📫 How to reach me: Email:taufeeqhussain1944@gmail.com
 -                      Phone:9110737896
--                      LinkedIn: Taufeeq Hussain https://www.linkedin.com/in/taufeeq-hussain-239634201/
--                      Instagram:taufeeqhussain19 https://www.instagram.com/taufeeqhussain19/
+-                      LinkedIn:https://www.linkedin.com/in/taufeeq-hussain-239634201/
+-                      Instagram: https://www.instagram.com/taufeeqhussain19/
 - ⚡ Fun fact: ...Sorry to say, but iam a very boring person too.....Iam trying my best to bring a change in myself.
 -->
