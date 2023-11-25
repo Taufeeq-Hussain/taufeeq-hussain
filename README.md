@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taufeeq Hussain</h1>
 <h3 align="center">An I.T Undergrad at Muffakham Jah College of Engineering and Technology. I see myself as a proactive person and seek new opportinities to develop and grow in my role. Iam Innovative and Consistent. A people person who enjoys meeting new individuals and learning from them.</h3>
 
-- 💬 Ask me about **javascript, sql, Machine Learning**
+- 💬 Ask me about **Javascript, SQL, Machine Learning**
 
 - 📫 How to reach me **taufeeqhussain1944@gmail.com**
 
