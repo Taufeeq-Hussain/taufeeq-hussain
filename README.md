@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufeeq Hussain</h1>
-<h3 align="center">An I.T Undergrad at Muffakham Jah College of Engineering and Technology. My expertise extends beyond conventional boundaries, encompassing Front-End Development, Machine Learning and the intricate realm of Data Science. I see myself as a proactive person and seek new opportinities to develop and grow in my role.  In addition to my technical skills, I value and prioritize strong interpersonal skills. I believe that effective communication, active listening, and empathy are key components in building positive relationships. I am excited about the opportunities that lie ahead and look forward to collaborating with like-minded professionals.</h3>
+<h3 align="center">An I.T Undergrad at Muffakham Jah College of Engineering and Technology. My expertise extends beyond conventional boundaries, encompassing Front-End Development, Machine Learning and the intricate realm of Data Science. I see myself as a proactive person and seek new opportinities to develop and grow in my role. I am excited about the opportunities that lie ahead and look forward to collaborating with like-minded professionals.</h3>
 
 - 💬 Ask me about **Data Science, Data Analytics, Javascript, Machine Learning**
 
