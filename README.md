@@ -14,7 +14,7 @@
     - Conducted data exploration and visualization in weather conditions, Uber data, and inventory datasets.
     - Utilized advanced visualization tools, including 3D pie charts, graphs, and 3D plots. Cleaned and analyzed diverse datasets.
 
-- 💬 Ask me about **Data Science, Data Analytics, JavaScript, Machine Learning**
+- 💬 Ask me about **Data Visualization, Data Analytics, Tableau, SQL **
 
 - 📫 How to reach me **taufeeqhussain1944@gmail.com**
 
@@ -71,7 +71,7 @@
 
 <h3 align="left">Certifications:</h3>
 <ul>
-  <li><b>MySQL:</b> Great Learning Academy, Nov 2023</li>
+  <li><b>Excel Basics for Data Analysis :</b> IBM via Coursera, Oct 2024</li>
   <li><b>Google Analytics Certification:</b> Dec 2023 - Dec 2024</li>
   <li><b>IBM Data Science Badges:</b> Foundation Level-1, Applied Data Science with Python, Jan 2024</li>
 </ul>
