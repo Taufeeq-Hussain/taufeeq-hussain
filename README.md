@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taufeeq Hussain</h1>
 <h3 align="center">
-  I'm Taufeeq Hussain, a recent graduate in Information Technology with a growing passion for data analysis and uncovering insights from data. My focus lies in leveraging tools like SQL, Python, and Tableau to make data-driven decisions and create impactful solutions.
+  A recent graduate in Information Technology with a growing passion for data analysis and uncovering insights from data. My focus lies in leveraging tools like SQL, Python, and Tableau to make data-driven decisions and create impactful solutions.
 
-I enjoy working with numbers, identifying trends, and simplifying complex datasets into actionable insights. With a strong foundation in data management and a curiosity for continuous learning, I aim to bridge the gap between raw data and meaningful narratives.
-
-Beyond my technical skills, I’m a collaborative team player with strengths in content creation, people management and clear communication. Feel free to explore my repositories or connect to share ideas and insights. Let’s grow together!
+I aim to bridge the gap between raw data and meaningful narratives. Beyond my technical skills, I’m a collaborative team player with strengths in content creation, people management and clear communication. Feel free to explore my repositories or connect to share ideas and insights. Let’s grow together!
 </h3>
 
 - 🎓 **Education:**
